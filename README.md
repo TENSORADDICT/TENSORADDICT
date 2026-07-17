@@ -165,10 +165,6 @@ Developing future robotics systems capable of perception, reasoning, and interac
 GitHub
 </a>
 
-•
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-LinkedIn
 </a>
 
 </p>
