@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner.png" width="100%" alt="Cyberpunk Lofi Robotics Banner">
+<img src="assets/Banner.jpg" width="100%" alt="Cyberpunk Lofi Robotics Banner">
 
 # Krrish
 
